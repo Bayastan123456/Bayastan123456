@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bayastan (Stan)</h1>
+<h3 align="center">Junior Frontend Developer</h3>
 
-<!--
-**Bayastan123456/Bayastan123456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Networks graduate  
+- 📚 Studying **Software Engineering** (part-time)
+- 💻 Frontend Developer (React / Next.js)
+- 🚀 Looking for **Junior / Intern Frontend Developer** position
+- 🌍 Bishkek, Kyrgyzstan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,redux,git,github" />
+</p>
+
+---
+
+### 📌 Projects
+- 🍷 **Wine Website** – React, API, UI components  
+- 👕 **T-Shirt Design App** – React, Canvas, State management  
+- ✈️ **Travel Guide App** – React, Routing, API  
+- 🎓 **Mentor Platform (Diploma Project)** – Next.js, TypeScript, Prisma, PostgreSQL
+
+👉 More projects in my repositories 👇
+
+---
+
+### 🎯 What I'm focusing on now
+- Deepening JavaScript & TypeScript
+- Advanced React & Next.js
+- Clean code & architecture
+- Real-world projects
+
+---
+
+### 📫 Contact Me
+- 📧 Email: **abakirovbayastan@gmail.com**
+- 💻 GitHub: [github.com/Bayastan123456](https://github.com/Bayastan123456)
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bayastan123456&show_icons=true&theme=tokyonight" />
+</p>
