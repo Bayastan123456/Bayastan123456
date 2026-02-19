@@ -46,10 +46,3 @@
 - 📧 Email: **abakirovbayastan@gmail.com**
 - 💻 GitHub: [github.com/Bayastan123456](https://github.com/Bayastan123456)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bayastan123456&show_icons=true&theme=tokyonight" />
-</p>
